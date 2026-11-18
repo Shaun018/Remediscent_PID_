@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+.env.*
+.idea/
+.vscode/
+.pytest_cache/
+dataset/raw/
+dataset/split/
+
+dataset/processed/consumer/

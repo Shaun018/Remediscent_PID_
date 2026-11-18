@@ -1,0 +1,16 @@
+                                    precision    recall  f1-score   support
+
+       class_01_AMARYL_4MG_TABLETS     0.9333    0.9333    0.9333        15
+           class_02_AMRIX_CAP_30MG     1.0000    0.8462    0.9167        13
+     class_03_BETHANECHOL_TAB_10MG     0.9231    1.0000    0.9600        12
+   class_04_ALLOPURINOL_300MG_TABS     0.9231    1.0000    0.9600        12
+class_05_DEPAKOTE_SPRINKLES_125_MG     0.8462    1.0000    0.9167        11
+          class_06_LEVOXYL_0_075MG     0.6667    1.0000    0.8000         8
+       class_07_HYZAAR_TAB_50_12_5     1.0000    1.0000    1.0000         8
+ class_08_GLIP_METFORM_5_500MG_TAB     1.0000    1.0000    1.0000         8
+          class_09_LEVOXYL_0_025MG     1.0000    0.5000    0.6667         8
+     class_10_IMIPRAM_HCL_50MG_TAB     1.0000    0.7500    0.8571         8
+
+                          accuracy                         0.9126       103
+                         macro avg     0.9292    0.9029    0.9010       103
+                      weighted avg     0.9300    0.9126    0.9090       103
